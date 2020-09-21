@@ -1,0 +1,7 @@
+#commands for the local notebook
+
+#install
+pip install notebook
+
+#run
+jupyter notebook
